@@ -1,0 +1,3 @@
+[submodule "superset-ui"]
+	path = superset-ui
+	url = https://github.com/guydou/superset-ui.git
